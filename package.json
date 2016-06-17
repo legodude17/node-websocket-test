@@ -1,0 +1,19 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "A small websocket app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"NO\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "dependencies": {
+    "nodejs-websocket": "^1.6.0",
+    "single-line-log": "^1.1.1"
+  }
+}
